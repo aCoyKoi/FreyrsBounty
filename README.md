@@ -14,3 +14,8 @@ Custom config included
 [ExtendedItemDataFramework]: https://valheim.thunderstore.io/package/RandyKnapp/ExtendedItemDataFramework/
 [EpicLoot]:https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/
 [SellThat]:https://valheim.thunderstore.io/package/ASharpPen/Sell_That/
+
+To install:
+Move and replace .cfg files to DRIVE:\Users\YOURNAME\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\GtF Modpack\BepInEx\config
+Move and replace .json files to DRIVE:\Users\YOURNAME\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\GtF Modpack\BepInEx\plugins\RandyKnapp-EpicLoot
+Launch Valheim through Modloader.
