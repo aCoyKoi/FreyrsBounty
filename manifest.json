@@ -1,12 +1,12 @@
 {
   "name": "FreyrsBountyModpack",
-  "version_number": "0.1.2",
+  "version_number": "0.1.3",
   "website_url": "https://github.com/aCoyKoi/FreyrsBounty",
   "description": "A combination of mods to create a gaming experience more akin to an RPG",
   "dependencies": [
     "RandyKnapp-ExtendedItemDataFramework-1.0.0",
     "denikson-BepInExPack_Valheim-5.4.800",
-    "RandyKnapp-EpicLoot-0.5.13",
+    "RandyKnapp-EpicLoot-0.5.16",
     "ASharpPen-Sell_That-1.2.0"
   ]
 }
